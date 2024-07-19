@@ -1,0 +1,2 @@
+// Documentation: https://github.com/coreos/coreos-ci/blob/main/README-upstream-ci.md
+echo "Testing has been disabled for rhcos branches"
